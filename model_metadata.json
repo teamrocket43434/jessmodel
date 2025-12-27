@@ -1,0 +1,25 @@
+{
+  "class_names": [
+    "Abra",
+    "Duraludon",
+    "Geodude",
+    "Larvitar",
+    "Missingno.",
+    "Nacli",
+    "Nincada",
+    "Rookidee",
+    "Zenith Marshadow"
+  ],
+  "num_classes": 9,
+  "image_height": 224,
+  "image_width": 336,
+  "input_shape": [
+    1,
+    3,
+    224,
+    336
+  ],
+  "best_accuracy": 100.0,
+  "training_samples": 154,
+  "validation_samples": 28
+}
