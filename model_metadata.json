@@ -3,14 +3,16 @@
     "Abra",
     "Duraludon",
     "Geodude",
+    "Grimmsnarl",
     "Larvitar",
-    "Missingno.",
+    "Missingno",
     "Nacli",
     "Nincada",
     "Rookidee",
+    "Trash Wormadam",
     "Zenith Marshadow"
   ],
-  "num_classes": 9,
+  "num_classes": 11,
   "image_height": 224,
   "image_width": 336,
   "input_shape": [
@@ -20,6 +22,6 @@
     336
   ],
   "best_accuracy": 100.0,
-  "training_samples": 154,
-  "validation_samples": 28
+  "training_samples": 231,
+  "validation_samples": 44
 }
